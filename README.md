@@ -1,6 +1,5 @@
 # AnalogClock
-# Side Project
-
+# For Fun
 - Analog clock for time.
 
 
